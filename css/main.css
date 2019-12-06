@@ -8,7 +8,7 @@
 }
 
 *,
-*:before,
+*:before,   
 *:after {
     box-sizing: border-box;
     margin: 0;
@@ -274,5 +274,14 @@ section
         margin-left:2px;
     }
     
-
+    .call_to_action
+    {
+        margin: 0 20vw 10px 5vw;
+        width:60vw;
+    }
+    .inquire_more
+    {
+        margin: 0 20vw 10px 5vw;
+        width:60vw;
+    }
 }
